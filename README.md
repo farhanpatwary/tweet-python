@@ -2,7 +2,7 @@
 Python script using `tweepy` library to post tweets on my twitter account 
 
 ## Usage
-Sign up to a twitter developer account and create an app.   
+Sign up for a twitter developer account and create an app.   
 Once you have created an app find your keys in the `keys and tokens` section of the app. 
 ### Fill in cfg.py file
 ```
