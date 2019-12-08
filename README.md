@@ -12,7 +12,7 @@ consumer_key =
 access_token = 
 access_token_secret = 
 ```
-Put your keys here with no speech marks. i.e. `consumer_secret = adsdb23123-dsbhdasb23231` (made up key).   
+Put your keys here with no speech marks. i.e. `consumer_secret = adsdb23123-dsbhdasb23231` (That is a made up key use your real key).   
 Run the program with:
 ```
 python post_tweet.py
